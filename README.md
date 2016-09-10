@@ -28,5 +28,7 @@ Signal processing will teach what are convolutions (for you convolutional neural
 
 ### How to study, the "degrees"
 To get a practitioner badge, you should feel good if you can use [Keras](https://github.com/fchollet/keras.git) and [XGboost](https://github.com/dmlc/xgboost) for Kaggle competitions.    
+
 A developer level asks for the ability to write your own multilayer perceptron from scratch and contribute new layers to Keras. This means implementing models from papers in Theano or Tensorflow. You should need calculus and linear algebra to understand what you are doing. Maybe some statistics and probability to understand the expectation operators and cost functions.  
+
 To get your researcher degree you should be exploring new fields and writing new type of models. I can't tell you what to study to do that. Maybe nothing, maybe everything, if I knew it wouldn't be called research. But if you can understand the "An exploration of Random Processes for Engineers" you may already know most of the basic and intermediary math necessary.
