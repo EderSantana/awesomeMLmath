@@ -1,7 +1,7 @@
 # awesomeMLmath
-Curated list to learn the math basics for machine learning
+Curated list to learn the math basics for machine learning. Note that this is a biased list from a Deep Learning research.
 
-The main topics are Calculus, Linear Algebra, Statistics, Probability and Signal Processing
+The main topics are Calculus, Linear Algebra, Statistics, Probability and Signal Processing. If you "combine" Probability with Signal Processing you have Stochastic Processess which is the theory behind RNN, Kalman Filters, etc.
 
 ### Calculus
 [Khan Academy Calculus](https://www.khanacademy.org/math/calculus-home)
@@ -14,7 +14,7 @@ Note that its good to learn about eigenvalue decomposition, etc. You will use th
 ### Statistics and probability
 [edx Introduction to Statistics](https://www.edx.org/course/introduction-statistics-descriptive-uc-berkeleyx-stat2-1x)  
 [edx Probability](https://www.edx.org/course/introduction-statistics-probability-uc-berkeleyx-stat2-2x)  
-[An exploration of Random Processes for Engineers](http://www.ifp.illinois.edu/~hajek/Papers/randomprocDec11.pdf) this is an advanced course. 
+[An exploration of Random Processes for Engineers](http://www.ifp.illinois.edu/~hajek/Papers/randomprocDec11.pdf) this is an advanced course but one of my favorites. 
 
 ### Signal Processing
 [edx Signals and Systems, part 1](https://www.edx.org/course/signals-systems-part-1-iitbombayx-ee210-1x-1)  
