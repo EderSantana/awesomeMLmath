@@ -9,7 +9,7 @@ The main topics are Calculus, Linear Algebra, Statistics, Probability and Signal
 ### Linear Algebra
 [Khan Academy Linear Algebra](https://www.khanacademy.org/math/linear-algebra)  
 [Linear Algebra MIT](http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-21-eigenvalues-and-eigenvectors/)  
-Note that it is good to learn about eigenvalue decomposition, etc. You will use that to understand Principal Compoenent Analysis and the idea of space transform which is what feature learning is all about.
+Note that it is good to learn about eigenvalue decomposition, etc (DO NOT stop with just solving system of equations). You will use that to understand Principal Compoenent Analysis and the idea of space transformation which is what feature learning is all about.
 
 ### Statistics and probability
 [edx Introduction to Statistics](https://www.edx.org/course/introduction-statistics-descriptive-uc-berkeleyx-stat2-1x)  
