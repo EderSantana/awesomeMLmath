@@ -14,7 +14,9 @@ Note that it is good to learn about eigenvalue decomposition, etc. You will use 
 ### Statistics and probability
 [edx Introduction to Statistics](https://www.edx.org/course/introduction-statistics-descriptive-uc-berkeleyx-stat2-1x)  
 [edx Probability](https://www.edx.org/course/introduction-statistics-probability-uc-berkeleyx-stat2-2x)  
-[An exploration of Random Processes for Engineers](http://www.ifp.illinois.edu/~hajek/Papers/randomprocDec11.pdf) this is an advanced course but one of my favorites. 
+[An exploration of Random Processes for Engineers](http://www.ifp.illinois.edu/~hajek/Papers/randomprocDec11.pdf) this is an advanced course but one of my favorites.  
+[Information Theory](http://colah.github.io/posts/2015-09-Visual-Information/)  
+Here is the deal, a probability density function is as much as we can know about a radom variable. Machine Learning is about estimating "momements" (you should learn that) of a random variable. If your random variable is not Gaussian, you will need more than mean and variance to correctly describe it (mean and var are the 1st and 2nd order moments). Information Theory generalizes all that.
 
 ### Signal Processing
 Signal processing will teach what are convolutions (for you convolutional neural nets). But no worries, signal processing is just linear algebra++. Ex. Fourier Transforms is an eigenvalue decomposition. All is one. If you trully learned linear algebra this part if mostly free.  
@@ -31,4 +33,4 @@ To get a practitioner badge, you should feel good if you can use [Keras](https:/
 
 A developer level asks for the ability to write your own multilayer perceptron from scratch and contribute new layers to Keras. This means implementing models from papers in Theano or Tensorflow. You should need calculus and linear algebra to understand what you are doing. Maybe some statistics and probability to understand the expectation operators and cost functions.  
 
-To get your researcher degree you should be exploring new fields and writing new type of models. I can't tell you what to study to do that. Maybe nothing, maybe everything, if I knew it wouldn't be called research. But if you can understand the "An exploration of Random Processes for Engineers" you may already know most of the basic and intermediary math necessary.
+To get your researcher degree you should be exploring new fields and writing new types of models. I can't tell you what to study to do that. Maybe nothing, maybe everything, if I knew it wouldn't be called research. But if you can understand the "An exploration of Random Processes for Engineers" you may already know most of the basic and intermediary math necessary.
