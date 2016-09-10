@@ -16,7 +16,7 @@ Note that it is good to learn about eigenvalue decomposition, etc. You will use 
 [edx Probability](https://www.edx.org/course/introduction-statistics-probability-uc-berkeleyx-stat2-2x)  
 [An exploration of Random Processes for Engineers](http://www.ifp.illinois.edu/~hajek/Papers/randomprocDec11.pdf) this is an advanced course but one of my favorites.  
 [Information Theory](http://colah.github.io/posts/2015-09-Visual-Information/)  
-Here is the deal, a probability density function is as much as we can know about a radom variable. Machine Learning is about estimating "momements" (you should learn that) of a random variable. If your random variable is not Gaussian, you will need more than mean and variance to correctly describe it (mean and var are the 1st and 2nd order moments). Information Theory generalizes all that.
+Here is the deal, a probability density function (pdf) is as much as we can know about a radom variable. Machine Learning is about estimating "momements" (you should learn that) of a pdf. If your random variable is not Gaussian, you will need more than mean and variance to correctly describe it (mean and var are the 1st and 2nd order moments). Information Theory generalizes all that.
 
 ### Signal Processing
 Signal processing will teach what are convolutions (for you convolutional neural nets). But no worries, signal processing is just linear algebra++. Ex. Fourier Transforms is an eigenvalue decomposition. All is one. If you trully learned linear algebra this part if mostly free.  
