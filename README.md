@@ -17,6 +17,7 @@ Note that it is good to learn about eigenvalue decomposition, etc. You will use 
 [An exploration of Random Processes for Engineers](http://www.ifp.illinois.edu/~hajek/Papers/randomprocDec11.pdf) this is an advanced course but one of my favorites. 
 
 ### Signal Processing
+Signal processing will teach what are convolutions (for you convolutional neural nets). But no worries, signal processing is just linear algebra++. Ex. Fourier Transforms is an eigenvalue decomposition. All is one. If you trully learned linear algebra this part if mostly free.  
 [edx Signals and Systems, part 1](https://www.edx.org/course/signals-systems-part-1-iitbombayx-ee210-1x-1)  
 [edx Discrete Time Signal Processing](https://www.edx.org/course/discrete-time-signal-processing-mitx-6-341x-1)  
 [adaptive signal processing](https://en.wikipedia.org/wiki/Adaptive_filter) this is the basis of neural nets, but I couldn't find modern video material...
