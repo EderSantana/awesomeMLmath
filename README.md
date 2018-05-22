@@ -1,5 +1,5 @@
 # awesomeMLmath
-Curated list to learn the math basics for machine learning. Note that this is a biased list from a Deep Learning research.
+Curated list to learn the math basics for machine learning. Note that this is a biased list from a Deep Learning researcher.
 
 The main topics are Calculus, Linear Algebra, Statistics, Probability and Signal Processing. If you "combine" Probability with Signal Processing you have Stochastic Processes which is the theory behind RNN, Kalman Filters, etc.
 
